@@ -9,65 +9,65 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ContosoUniversityRazer
 build_property.RootNamespace = ContosoUniversityRazer
-build_property.ProjectDir = C:\Users\moham\OneDrive\Documents\github repositories\ContosoUniversityRazer\ContosoUniversityRazer\ContosoUniversityRazer\
+build_property.ProjectDir = C:\Users\moham\OneDrive\Documents\University\C550\Logbooks\Logbook 4\ContosoUniversityRazer\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\moham\OneDrive\Documents\github repositories\ContosoUniversityRazer\ContosoUniversityRazer\ContosoUniversityRazer
+build_property.MSBuildProjectDirectory = C:\Users\moham\OneDrive\Documents\University\C550\Logbooks\Logbook 4\ContosoUniversityRazer
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/moham/OneDrive/Documents/github repositories/ContosoUniversityRazer/ContosoUniversityRazer/ContosoUniversityRazer/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/moham/OneDrive/Documents/University/C550/Logbooks/Logbook 4/ContosoUniversityRazer/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/moham/OneDrive/Documents/github repositories/ContosoUniversityRazer/ContosoUniversityRazer/ContosoUniversityRazer/Pages/Error.cshtml]
+[C:/Users/moham/OneDrive/Documents/University/C550/Logbooks/Logbook 4/ContosoUniversityRazer/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/moham/OneDrive/Documents/github repositories/ContosoUniversityRazer/ContosoUniversityRazer/ContosoUniversityRazer/Pages/Index.cshtml]
+[C:/Users/moham/OneDrive/Documents/University/C550/Logbooks/Logbook 4/ContosoUniversityRazer/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/moham/OneDrive/Documents/github repositories/ContosoUniversityRazer/ContosoUniversityRazer/ContosoUniversityRazer/Pages/Privacy.cshtml]
+[C:/Users/moham/OneDrive/Documents/University/C550/Logbooks/Logbook 4/ContosoUniversityRazer/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/moham/OneDrive/Documents/github repositories/ContosoUniversityRazer/ContosoUniversityRazer/ContosoUniversityRazer/Pages/Shared/_LoginPartial.cshtml]
+[C:/Users/moham/OneDrive/Documents/University/C550/Logbooks/Logbook 4/ContosoUniversityRazer/Pages/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/moham/OneDrive/Documents/github repositories/ContosoUniversityRazer/ContosoUniversityRazer/ContosoUniversityRazer/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/moham/OneDrive/Documents/University/C550/Logbooks/Logbook 4/ContosoUniversityRazer/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/moham/OneDrive/Documents/github repositories/ContosoUniversityRazer/ContosoUniversityRazer/ContosoUniversityRazer/Pages/Students/Create.cshtml]
+[C:/Users/moham/OneDrive/Documents/University/C550/Logbooks/Logbook 4/ContosoUniversityRazer/Pages/Students/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/moham/OneDrive/Documents/github repositories/ContosoUniversityRazer/ContosoUniversityRazer/ContosoUniversityRazer/Pages/Students/Delete.cshtml]
+[C:/Users/moham/OneDrive/Documents/University/C550/Logbooks/Logbook 4/ContosoUniversityRazer/Pages/Students/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/moham/OneDrive/Documents/github repositories/ContosoUniversityRazer/ContosoUniversityRazer/ContosoUniversityRazer/Pages/Students/Details.cshtml]
+[C:/Users/moham/OneDrive/Documents/University/C550/Logbooks/Logbook 4/ContosoUniversityRazer/Pages/Students/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/moham/OneDrive/Documents/github repositories/ContosoUniversityRazer/ContosoUniversityRazer/ContosoUniversityRazer/Pages/Students/Edit.cshtml]
+[C:/Users/moham/OneDrive/Documents/University/C550/Logbooks/Logbook 4/ContosoUniversityRazer/Pages/Students/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/moham/OneDrive/Documents/github repositories/ContosoUniversityRazer/ContosoUniversityRazer/ContosoUniversityRazer/Pages/Students/Index.cshtml]
+[C:/Users/moham/OneDrive/Documents/University/C550/Logbooks/Logbook 4/ContosoUniversityRazer/Pages/Students/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/moham/OneDrive/Documents/github repositories/ContosoUniversityRazer/ContosoUniversityRazer/ContosoUniversityRazer/Pages/_ViewImports.cshtml]
+[C:/Users/moham/OneDrive/Documents/University/C550/Logbooks/Logbook 4/ContosoUniversityRazer/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/moham/OneDrive/Documents/github repositories/ContosoUniversityRazer/ContosoUniversityRazer/ContosoUniversityRazer/Pages/_ViewStart.cshtml]
+[C:/Users/moham/OneDrive/Documents/University/C550/Logbooks/Logbook 4/ContosoUniversityRazer/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/moham/OneDrive/Documents/github repositories/ContosoUniversityRazer/ContosoUniversityRazer/ContosoUniversityRazer/Pages/Shared/_Layout.cshtml]
+[C:/Users/moham/OneDrive/Documents/University/C550/Logbooks/Logbook 4/ContosoUniversityRazer/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-bkmm5iopow

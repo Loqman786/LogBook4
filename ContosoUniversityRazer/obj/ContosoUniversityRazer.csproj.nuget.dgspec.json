@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\moham\\OneDrive\\Documents\\github repositories\\ContosoUniversityRazer\\ContosoUniversityRazer\\ContosoUniversityRazer\\ContosoUniversityRazer.csproj": {}
+    "C:\\Users\\moham\\OneDrive\\Documents\\University\\C550\\Logbooks\\Logbook 4\\ContosoUniversityRazer\\ContosoUniversityRazer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\moham\\OneDrive\\Documents\\github repositories\\ContosoUniversityRazer\\ContosoUniversityRazer\\ContosoUniversityRazer\\ContosoUniversityRazer.csproj": {
+    "C:\\Users\\moham\\OneDrive\\Documents\\University\\C550\\Logbooks\\Logbook 4\\ContosoUniversityRazer\\ContosoUniversityRazer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\moham\\OneDrive\\Documents\\github repositories\\ContosoUniversityRazer\\ContosoUniversityRazer\\ContosoUniversityRazer\\ContosoUniversityRazer.csproj",
+        "projectUniqueName": "C:\\Users\\moham\\OneDrive\\Documents\\University\\C550\\Logbooks\\Logbook 4\\ContosoUniversityRazer\\ContosoUniversityRazer.csproj",
         "projectName": "ContosoUniversityRazer",
-        "projectPath": "C:\\Users\\moham\\OneDrive\\Documents\\github repositories\\ContosoUniversityRazer\\ContosoUniversityRazer\\ContosoUniversityRazer\\ContosoUniversityRazer.csproj",
+        "projectPath": "C:\\Users\\moham\\OneDrive\\Documents\\University\\C550\\Logbooks\\Logbook 4\\ContosoUniversityRazer\\ContosoUniversityRazer.csproj",
         "packagesPath": "C:\\Users\\moham\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\moham\\OneDrive\\Documents\\github repositories\\ContosoUniversityRazer\\ContosoUniversityRazer\\ContosoUniversityRazer\\obj\\",
+        "outputPath": "C:\\Users\\moham\\OneDrive\\Documents\\University\\C550\\Logbooks\\Logbook 4\\ContosoUniversityRazer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

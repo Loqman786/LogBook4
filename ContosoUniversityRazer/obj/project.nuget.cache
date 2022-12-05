@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jilEFnVSKv+93qJk2L6A+2tajQxcwPRRynwblhR/I44SPyCM/5PMnGtYXLFwt/1jzyQtnWpzbs8ikiVcNEwt7w==",
+  "dgSpecHash": "ftDogzryWm1nSneg1+829SZtA5OpSg4Mhx3UTURD6CxznArzY/LzN0q6EblDg/j8mb4FVMyqhW4gshZySz3n3A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\moham\\OneDrive\\Documents\\github repositories\\ContosoUniversityRazer\\ContosoUniversityRazer\\ContosoUniversityRazer\\ContosoUniversityRazer.csproj",
+  "projectFilePath": "C:\\Users\\moham\\OneDrive\\Documents\\University\\C550\\Logbooks\\Logbook 4\\ContosoUniversityRazer\\ContosoUniversityRazer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\moham\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\moham\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
